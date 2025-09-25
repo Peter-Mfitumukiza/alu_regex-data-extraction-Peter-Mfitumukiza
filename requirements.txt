@@ -1,0 +1,9 @@
+# Requirements for Regex Data Extraction Tool
+# This project uses only Python standard library modules
+
+# Python standard library modules used:
+# - re (regular expressions)
+# - json (JSON handling)  
+# - typing (type hints)
+
+# No external dependencies required!

@@ -1,0 +1,43 @@
+{
+  "emails": [
+    "support@company.co.uk",
+    "help@payment.com",
+    "admin@example.net",
+    "jane.smith@organization.org",
+    "john.doe@example.com",
+    "sales@company.com"
+  ],
+  "urls": [
+    "https://docs.example.com/api",
+    "https://www.company.com",
+    "https://zoom.us/meeting/12345",
+    "https://api.example.org/v1/data",
+    "https://backup.company.com/data"
+  ],
+  "phone_numbers": [
+    "555-987-6543",
+    "647.555.7890",
+    "416-555-0123",
+    "(911) 555-0911",
+    "(555) 123-4567",
+    "800.555.0199"
+  ],
+  "credit_cards": [
+    "5555-4444-3333-2222",
+    "6011-0009-9013-9424",
+    "4532 1234 5678 9012",
+    "4111111111111111"
+  ],
+  "times": {
+    "12_hour": [],
+    "24_hour": [
+      "16:30",
+      "5:30",
+      "11:59",
+      "09:15",
+      "2:30",
+      "9:00",
+      "14:45"
+    ]
+  }
+}
