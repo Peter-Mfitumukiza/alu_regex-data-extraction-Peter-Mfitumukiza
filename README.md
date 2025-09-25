@@ -6,7 +6,7 @@ A Python-based web data extraction tool that uses regular expressions to identif
 
 This project implements a comprehensive data extraction system designed to process hundreds of pages of string responses from web APIs. Using the power of regular expressions, it can identify and extract 5 different types of data patterns commonly found in web content.
 
-## 🔧 Features
+## Features
 
 The tool can extract the following data types:
 
@@ -16,7 +16,7 @@ The tool can extract the following data types:
 - ** Credit Card Numbers**: `1234 5678 9012 3456`, `1234-5678-9012-3456`
 - ** Time Formats**: `14:30` (24-hour), `2:30 PM` (12-hour)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 alu_regex-data-extraction-{YourUsername}/
@@ -28,7 +28,7 @@ alu_regex-data-extraction-{YourUsername}/
 └── requirements.txt
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.7 or higher
@@ -47,7 +47,7 @@ cd alu_regex-data-extraction-Peter-Mfitumukiza
 python main.py
 ```
 
-## 💡 Usage Examples
+## Usage Examples
 
 ### Basic Usage
 
